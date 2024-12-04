@@ -1,1 +1,9 @@
-# BIRD-SPECIES-IDENTIFICATION-AND-CLASSIFICATION-USING-VGG-19-FRAMEWORK
+# Bird Species Identification
+
+Scientists have estimated that there are around 8.7 million species of plants and animals in existence out of which, only around 1.2 million species have been identified and described so far. As per BirdLife International, 11,162 species of birds have been identified till now. Birds live worldwide and range in size from the 5.5 cm Bee Hummingbird to the 2.8 m Ostrich. The beauty of birds is all around us. And once we learn more about them, our experiences with nature become so much richer. We understand their importance to the ecosystem and learn to respect the wildlife.Understanding the Problem
+
+Many people are interested in observing and studying wildlife, especially in bird-watching. The role of birdwatcher is to preserve the nature by observing bird’s behaviour and migration pattern. For an ordinary person, it is difficult to identify birds in their backyard or when doing outdoor adventures. Even for a professional, it might be difficult sometimes to identify the bird species due to the similarity of the bird’s forms and also because they can’t get too close to the birds so as to not disturb them. Today, using Deep Neural Network (DNN) bird species identification is possible. All we have to do is take out our camera and click a picture of the bird.
+
+The Bird’s voices were used in earlier technique to predict it species, but this technique has many challenges to give an accurate result due to other background of birds/animal voices. So, images can be best choice to be used to identify bird’s species. In this case study, we will be developing a deep learning model to identify the species of some commonly found birds from their picture. To implement this technique, the images of birds from different species will be used to generate models. The model will make identification of birds easier without human interference in their activities.
+
+Blog: https://gouravrathore99.medium.com/a-case-study-on-birds-species-identification-115b0f4965db
